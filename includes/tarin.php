@@ -1,9 +1,3 @@
-    <section>
-      <h1>Hello, World</h1>
-      <p>I am a junior at the University of Rochester in upstate New York pursuing a double major in Computer Science and Brain & Cognitive Sciences with a strong range of prior internship experience in web development and design.</p>
-      <p>I am always looking for fresh and innovative challenges to expand my development skills. A dedicated and enthusiastic worker, I am passionate about intelligent design and a quick learner always seeking new opportunities to learn and grow.</p>
-    </section>
-
 
     <section>
       <h1><a id="Experience">Experience</a></h1>
@@ -24,7 +18,6 @@
 			<h4>B.A. Computer Science, B.A. Brain and Cognitive Sciences</h4>
 			<ul>
 				<li>Minors: Psychology, French</li>
-				<li>3.9 GPA; Dean's List all semesters</li>
 				<li>George Eastman Young Leaders Scholarship recipient</li>
 			</ul>
 

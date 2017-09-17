@@ -11,10 +11,10 @@
 
     <nav>
       <ul>
-        <li><a href="#CJ">CJ</a></li>
-    		<li><a href="#Mel">Mel</a></li>
-    		<li><a href="#Kalila">Kalila</a></li>
-        <li><a href="#Tarin">Tarin</a></li>
+        <li><a id="cj-tab" href="#">CJ</a></li>
+    		<li><a id="mel-tab" href="#">Mel</a></li>
+    		<li><a id="kalila-tab" href="#">Kalila</a></li>
+        <li><a id="tarin-tab" href="#">Tarin</a></li>
       </ul>
     </nav>
 
@@ -26,6 +26,10 @@
     <footer>
       <p>Copyright © 2017</p> 
     </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+  <script src="js/tabs.js"></script>
 
   </body>
 </html>

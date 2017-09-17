@@ -5,12 +5,14 @@
     <meta name="description" content="CSC174">
     <meta name="author" content="CJ, Mel, Kalila, Tarin">
     <title>CSC174</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
   </head>
 
   <body>
 
-    <nav>
-      <ul>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <ul class="nav navbar-nav">
         <li><a id="cj-tab" href="#">CJ</a></li>
     		<li><a id="mel-tab" href="#">Mel</a></li>
     		<li><a id="kalila-tab" href="#">Kalila</a></li>

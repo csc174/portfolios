@@ -27,7 +27,7 @@
     <li>Took university courses while immersing myself in the culture and language of western France</li>
   </ul>
 
-  <h1><a id="Skills">Skills</a></h1>
+  <h1>Skills</h1>
   <h2>Proficient in:</h2>
   <ul>
     <li>CSS</li>

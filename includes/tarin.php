@@ -9,7 +9,7 @@
   <a href="https://studentcareers.linkedin.com/internships" role="button">Learn more »</a>
   <a href="http://www.linkedin.com/" role="button">View site »</a>
 
-  <h1>Education</h1>
+  <h1 class="gov">Education</h1>
 
 	<h2>University of Rochester</h2>
 	<h3>Rochester, NY &nbsp; | &nbsp; Graduate May 2018</h3>
@@ -27,7 +27,7 @@
     <li>Took university courses while immersing myself in the culture and language of western France</li>
   </ul>
 
-  <h1>Skills</h1>
+  <h1 class="gov">Skills</h1>
   <h2>Proficient in:</h2>
   <ul>
     <li>CSS</li>

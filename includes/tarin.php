@@ -1,8 +1,8 @@
 <section id="tarin" style="display: none;">
 
-  <h1>Tarin Rickett</h1>
+  <h1 class="dear-joe">Tarin Rickett</h1>
 
-  <h1>Experience</h1>
+  <h1 class="gov">Experience</h1>
   <h2>UI Engineer Intern</h2>
   <h3>LinkedIn</h3>
   <h4>Sunnyvale, CA &nbsp; | &nbsp; June 2017 - Sept 2017</h4>

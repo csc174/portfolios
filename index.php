@@ -7,16 +7,17 @@
     <title>CSC174</title>
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/overrides.css" rel="stylesheet">
   </head>
 
   <body>
 
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <ul class="nav navbar-nav">
-        <li><a id="cj-tab" href="#">CJ</a></li>
-    		<li><a id="mel-tab" href="#">Mel</a></li>
-    		<li><a id="kalila-tab" href="#">Kalila</a></li>
-        <li><a id="tarin-tab" href="#">Tarin</a></li>
+        <li><a class="gov" id="cj-tab" href="#">CJ</a></li>
+    		<li><a class="gov" id="mel-tab" href="#">Mel</a></li>
+    		<li><a class="gov" id="kalila-tab" href="#">Kalila</a></li>
+        <li><a class="gov" id="tarin-tab" href="#">Tarin</a></li>
       </ul>
     </nav>
 

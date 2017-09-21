@@ -1,6 +1,6 @@
 <section id="cj" style="display: none;">	
-	<h1>Christopher Van Huben</h1>
-	<h2>Call me CJ</h2>
+	<h1 class="dear-joe">Christopher Van Huben</h1>
+	<h2 class="gov">Call me CJ</h2>
 
 	<article>
 

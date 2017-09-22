@@ -1,9 +1,31 @@
 /************/
+/* Home Page */
+/************/
+
+body{
+  background-color: #DB4C40;
+}
+
+.img-circle {
+  margin-top: 15px;
+}
+
+.col-md-4 {
+  max-width: 400px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: black solid 1px;
+}
+
+
+
+
+/************/
 /* BASICS */
 /************/
 
 h1 {
-  color: #65A859;
+  color: #7D1128;
 }
 
 @font-face {

@@ -46,10 +46,6 @@ h1 {
   font-family: 'gov';
 }
 
-.right-justify {
-  text-align: right;
-}
-
 section {
   padding-top: 1em;
 }
@@ -89,103 +85,16 @@ section {
   color: #fff;
 }
 
-.form-control {
-  margin-bottom: 25px;
-}
 
-.white-space {
-  padding-bottom: 20px;
-}
-
-/**********/
-/* SKILLS */
-/**********/
-
-.big {
-  font-size: 18px;
-  padding: .35em;
-  margin: .25em;
-  line-height: 2.5em;
-  white-space: nowrap;
-}
-
-.inline {
-  display: inline;
-  padding-right: .2em;
-}
-
-div .skills {
-  margin-bottom: 1em;
-}
-
-/**********/
-/* SLIDES */
-/**********/
-#leftArrow {
-  padding-top: 100%;
-}
-
-#rightArrow {
-  padding-top: 100%;
-}
-
-/*#slide:hover {
-  -webkit-transition: opacity 1s cubic-bezier(0.4, 0, 0.2, 1);
-}*/
-
-/*#slideDesc {
-
-}*/
 
 /**********/
 /* MISC */
 /**********/
 
-#website-label {
-  text-align: center;
-}
-
-.panel-body {
-  padding: 25px;
-}
-
-#roch {
-  background-image: url('../images/rushrhizzle.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  display: block;
-  padding-bottom: 5em;
-}
-
-#nantes {
-  background-image: url('../images/unantes.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  display: block;
-  padding-bottom: 5em;
-}
-
 footer p {
   color: #ACC9A7;
 }
 
-.fa {
-  font-size: 50%;
-}
-
-.featured-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 5em;
-}
-
-.rotate {
-  padding-top: 2em;
-  transform: rotate(-1.5deg);
-}
 
 .navbar-inverse .navbar-toggle .icon-bar {
   background-color: #333;
@@ -195,24 +104,5 @@ footer p {
   background-color: #eee;
 }
 
-code {
-  color: #5a964f;
-  background-color: #eff6ee;
-}
 
-.centered {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-}
-
-#ies {
-  color: #333;
-  text-decoration: none;
-}
-
-#ies:focus, #ies:hover {
-  color: #65A859;
-  text-decoration: underline;
-}
 

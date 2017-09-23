@@ -1,3 +1,13 @@
+<body>
+   <nav class="navbar navbar-inverse navbar-fixed-top">
+      <ul class="nav navbar-nav">
+        <li><a class = "gov" href="index.php"> Home </a> </li>
+        <li><a class="gov" id="mel-tab" href="mel.php">Mel</a></li>
+        <li><a class="gov" id="kalila-tab" href="kalila.php">Kalila</a></li>
+        <li><a class="gov" id="tarin-tab" href="tarin.php">Tarin</a></li>
+      </ul>
+    </nav>
+
 <section id="tarin" style="display: none;">
 
   <h1 class="dear-joe">Tarin Rickett</h1>

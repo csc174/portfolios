@@ -1,3 +1,14 @@
+<body>
+	 <nav class="navbar navbar-inverse navbar-fixed-top">
+      <ul class="nav navbar-nav">
+      	<li><a class = "gov" href="index.php"> Home </a> </li>
+        <li><a class="gov" id="mel-tab" href="mel.php">Mel</a></li>
+        <li><a class="gov" id="kalila-tab" href="kalila.php">Kalila</a></li>
+        <li><a class="gov" id="tarin-tab" href="tarin.php">Tarin</a></li>
+      </ul>
+    </nav>
+
+
 <section id="kalila" style="display: none;">
 	<h1 class="dear-joe">About Kalila</h1>
 					
@@ -73,3 +84,4 @@
 	<p> Served as the Social Media Chair for the Theta Lambda chapter of Kappa Alpha Theta. Ran all social media pages for the chapter and created promotional photo campaigns to improve the chapter's image.</p>
 
 </section>
+</body>

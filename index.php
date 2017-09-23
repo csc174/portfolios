@@ -20,10 +20,14 @@
       </ul>
     </nav>
 
-    <div class="jumbotron text-center">
+<!--     <div class="jumbotron text-center">
       <h1>Welcome to Queens, NY</h1>  
     </div>
-
+ -->
+<div class= "welcome">
+  <h1> Welcome to Queens, NY</h1>
+  <h2> Click on a person to learn more about them!</h2>
+</div>
 
 <div class="container-fluid">
   <div class="row">
@@ -61,7 +65,7 @@
           <h2> Kalila Shapiro </h2>
           <h3> Class of 2018 </h3>
         </div>
-      </div>
+    </div>
     </div>
   </div>
 

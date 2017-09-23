@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="CSC174">
+    <meta name="author" content="CJ, Mel, Kalila, Tarin">
+    <title>CSC174 Assignment 4</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/overrides.css" rel="stylesheet">
+  </head>
+
+
 <body>
 	 <nav class="navbar navbar-inverse navbar-fixed-top">
       <ul class="nav navbar-nav">
@@ -59,3 +72,4 @@
 
 	</section>
 </body>
+</html>

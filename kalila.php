@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="CSC174">
+    <meta name="author" content="CJ, Mel, Kalila, Tarin">
+    <title>CSC174 Assignment 4</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/overrides.css" rel="stylesheet">
+  </head>
+
 <body>
 	 <nav class="navbar navbar-inverse navbar-fixed-top">
       <ul class="nav navbar-nav">
@@ -22,14 +34,14 @@
 		<li> Bachelor of Arts Candidate in Computer Science, Digital Media Studies</li>
 		<li> GPA 3.5/4.0</li>
 		<li> Concentration in Human Computer Interaction</li>
-		<li> Dean’s List Spring 2015; Spring, Fall 2016; Spring 2017<li>
+		<li> Dean’s List Spring 2015; Spring, Fall 2016; Spring 2017</li>
 	</ul>
 
 	<h3>Awards</h3>
 	<ul>
 		<li> Wilder Trustee Scholarship for Academic Excellence Recipient</li>
 		<li> Research and Innovation Grant Recipient</li>
-		<li> Computing Research Association - Women's GHC Research Scholar<li>
+		<li> Computing Research Association - Women's GHC Research Scholar</li>
 	</ul>
 
 	<h3>Skills</h3>
@@ -39,7 +51,7 @@
 		<li> Concentration in Human Computer Interaction</li>
 		<li> Proficient in Java, C++, HTML/CSS, JavaScript, Python, C, PHP, and SQL</li>
 		<li> Proficient in Mandarin and Spanish</li>
-		<li> Communication, Teamwork, and Planning Abilities<li>
+		<li> Communication, Teamwork, and Planning Abilities</li>
 	</ul>
 
 
@@ -85,3 +97,5 @@
 
 </section>
 </body>
+</html>
+

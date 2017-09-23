@@ -10,7 +10,7 @@
     <link href="css/overrides.css" rel="stylesheet">
   </head>
 
-  <body>
+  <body class = "home">
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <ul class="nav navbar-nav">
         <li><a class ="gov" href="index.php">Home </a></li>

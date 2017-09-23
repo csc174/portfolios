@@ -2,9 +2,10 @@
 /* Home Page */
 /************/
 
-body{
-  background-color: #DB4C40;
+.home{
+  background-color: #7D1128;
 }
+
 
 .img-circle {
   margin-top: 15px;
@@ -22,12 +23,13 @@ body{
   font-size: 60pt;
   text-align: center;
   margin-top: 90px;
-  color: #FFCF99;
+  color: #FFC07F;
 }
 
 .welcome h2{
   font-size: 20pt;
   text-align: center;
+  color: #FFCF99;
 }
 
 .welcome{
@@ -35,6 +37,23 @@ body{
 }
 
 
+
+/**********/
+/* Profiles */
+/**********/
+
+.gov{
+  text-align: center;
+}
+ 
+ .profile{
+  margin-top: 30px;
+ }
+
+.profile .buttons{
+  text-align: center;
+
+}
 
 /************/
 /* BASICS */
@@ -72,32 +91,28 @@ section {
 
 .navbar-inverse {
   background-color: #fff;
-  border-color: #65A859;
+  border-color: #721121;
 }
 
 .navbar-inverse .navbar-nav>li>a {
     color: #333;
 }
 
-.navbar-inverse .navbar-nav>li>a:hover {
-    color: #65A859;
-}
-
 .navbar-inverse .navbar-brand {
-    color: #65A859;
+    color: #721121;
 }
 
 
 .navbar-inverse .navbar-nav>li>a:focus {
-  color: #65A859;
+  color: #721121;
 }
 
 .navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
-    color: #333;
+    color: #721121;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover {
-  background-color: #65A859;
+  background-color: #DB7067;
   color: #fff;
 }
 
@@ -109,15 +124,6 @@ section {
 
 footer p {
   color: #ACC9A7;
-}
-
-
-.navbar-inverse .navbar-toggle .icon-bar {
-  background-color: #333;
-}
-
-.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-  background-color: #eee;
 }
 
 

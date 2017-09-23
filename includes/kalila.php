@@ -20,12 +20,15 @@
       </ul>
     </nav>
 
+    <section class=" profile">
 
-<section id="kalila">
 	<h1 class="dear-joe">About Kalila</h1>
 					
 	<h1 class="gov"> Resume </h1>
-	<a href="https://kalilashapiroroc.wordpress.com"> * Portfolio * </a>
+	
+	<div class="buttons">
+		<a href="https://kalilashapiroroc.wordpress.com"> * Portfolio * </a>
+	</div>
 
 	<h2 class="gov">Education</h2>
 	
@@ -94,7 +97,6 @@
 
 	<h3> Kappa Alpha Theta - Theta Lambda Chapter Social Media Chair, Rochester, NY January 2017 - May 2017</h3>
 	<p> Served as the Social Media Chair for the Theta Lambda chapter of Kappa Alpha Theta. Ran all social media pages for the chapter and created promotional photo campaigns to improve the chapter's image.</p>
-
 </section>
 </body>
 </html>

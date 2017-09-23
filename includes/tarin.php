@@ -20,9 +20,12 @@
       </ul>
     </nav>
 
-<section id="tarin">
 
-  <h1 class="dear-joe">Tarin Rickett</h1>
+ <section class=" profile">
+ 
+
+  <h1 class="dear-joe">About Tarin</h1>
+
 
   <h1 class="gov">Experience</h1>
   <h2>UI Engineer Intern</h2>

@@ -6,15 +6,15 @@
     <meta name="author" content="CJ, Mel, Kalila, Tarin">
     <title>CSC174 Assignment 4</title>
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/overrides.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/overrides.css" rel="stylesheet">
   </head>
 
 
 <body>
 	 <nav class="navbar navbar-inverse navbar-fixed-top">
       <ul class="nav navbar-nav">
-      	<li><a class = "gov" href="index.php"> Home </a> </li>
+      	<li><a class = "gov" href="../index.php"> Home </a> </li>
         <li><a class="gov" id="mel-tab" href="mel.php">Mel</a></li>
         <li><a class="gov" id="kalila-tab" href="kalila.php">Kalila</a></li>
         <li><a class="gov" id="tarin-tab" href="tarin.php">Tarin</a></li>

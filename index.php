@@ -14,9 +14,9 @@
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <ul class="nav navbar-nav">
         <li><a class ="gov" href="index.php">Home </a></li>
-        <li><a class="gov" id="mel-tab" href="mel.php">Mel</a></li>
-        <li><a class="gov" id="kalila-tab" href="kalila.php">Kalila</a></li>
-        <li><a class="gov" id="tarin-tab" href="tarin.php">Tarin</a></li>
+        <li><a class="gov" id="mel-tab" href="includes/mel.php">Mel</a></li>
+        <li><a class="gov" id="kalila-tab" href="includes/kalila.php">Kalila</a></li>
+        <li><a class="gov" id="tarin-tab" href="includes/tarin.php">Tarin</a></li>
       </ul>
     </nav>
 
@@ -29,7 +29,7 @@
   <div class="row">
     <div id = "mel" class="col-md-4 media well">
         <div class = "media-left">
-          <a href="mel.php">
+          <a href="includes/mel.php">
             <img src="mel-headshot.jpg" class="img-circle media-object" alt="Cinque Terre" width="100" height="120">
           </a>
         </div>
@@ -41,7 +41,7 @@
 
     <div id = "tarin" class="col-md-4 media well">
         <div class = "media-left">
-          <a href="tarin.php">
+          <a href="includes/tarin.php">
             <img src="tarin-headshot.jpg" class="img-circle media-object" alt="Cinque Terre" width="100" height="120">
           </a>
         </div>
@@ -53,7 +53,7 @@
 
     <div id = "kalila" class="col-md-4 media well">
         <div class = "media-left">
-          <a href="kalila.php">
+          <a href="includes/kalila.php">
             <img src="kalila-headshot.jpg" class="img-circle media-object" alt="Cinque Terre" width="100" height="120">
           </a>
         </div>

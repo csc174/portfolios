@@ -22,9 +22,8 @@
     		<li><a class="gov" id="kalila-tab" href="#">Kalila</a></li>
         <li><a class="gov" id="tarin-tab" href="#">Tarin</a></li>
       </ul>
-    </nav> -->
-
-    <?php include "includes/cj.php" ?>
+    </nav>
+ -->
     <?php include "includes/mel.php" ?>
     <?php include "includes/kalila.php" ?>
     <?php include "includes/tarin.php" ?>
@@ -39,10 +38,9 @@
           </a>
         </div>
         <div class = "media-body"> 
-          <h2> Melanie Dookharan </h2>
+          <h2><a href="<?php include "includes/mel.php" ?>" > Mel Dookharan </a></h2>
           <h3> Class of 2019 </h3>
         </div>
-        <p> Hi! My name is <strong>Melanie Dookharan</strong> and I'm currently a junior at the University of Rochester, majoring in Computer Science with a minor in Business. I'm particularly interested in UX/UI design and applications in Human Computer Interactions. I self learned Adobe Photoshop and Illustrator in 6th grade for a project, and have longed for a career where I can focus on design since then. After taking computer science courses for a little over a year, I am proficient in Python, Java, HTML, and CSS. I'm excited to combine my skills for a long-term career. Eventually, I hope to exclusively work on websites and mobile interfaces, but focus on the research and design side of it. </p> 
     </div>
 
     <div id = "tarin" class="col-md-4 media well">
@@ -52,27 +50,23 @@
           </a>
         </div>
         <div class = "media-body"> 
-          <h2> Tarin Rickett </h2>
-          <h3> Class of 2019 </h3>
+          <h2><a href="<?php include "includes/tarin.php" ?>" > Tarin Rickett </a></h2>
+          <h3> Class of 2018 </h3>
         </div>
-        <p> Hi! My name is <strong>Melanie Dookharan</strong> and I'm currently a junior at the University of Rochester, majoring in Computer Science with a minor in Business. I'm particularly interested in UX/UI design and applications in Human Computer Interactions. I self learned Adobe Photoshop and Illustrator in 6th grade for a project, and have longed for a career where I can focus on design since then. After taking computer science courses for a little over a year, I am proficient in Python, Java, HTML, and CSS. I'm excited to combine my skills for a long-term career. Eventually, I hope to exclusively work on websites and mobile interfaces, but focus on the research and design side of it. </p> 
     </div>
 
     <div id = "kalila" class="col-md-4 media well">
         <div class = "media-left">
-          <a href="">
-            <img src="mel-headshot.jpg" class="img-circle media-object" alt="Cinque Terre" width="100" height="120">
+            <img src="kalila-headshot.jpg" class="img-circle media-object" alt="Cinque Terre" width="100" height="120">
           </a>
         </div>
         <div class = "media-body"> 
-          <h2> Kalila Shapiro </h2>
-          <h3> Class of 2019 </h3>
+          <h2><a href="<?php include "includes/kalila.php" ?>" > Kalila Shapiro </a></h>
+          <h3> Class of 2018 </h3>
         </div>
-        <p> Hi! My name is <strong>Melanie Dookharan</strong> and I'm currently a junior at the University of Rochester, majoring in Computer Science with a minor in Business. I'm particularly interested in UX/UI design and applications in Human Computer Interactions. I self learned Adobe Photoshop and Illustrator in 6th grade for a project, and have longed for a career where I can focus on design since then. After taking computer science courses for a little over a year, I am proficient in Python, Java, HTML, and CSS. I'm excited to combine my skills for a long-term career. Eventually, I hope to exclusively work on websites and mobile interfaces, but focus on the research and design side of it. </p> 
+      </div>
     </div>
-
   </div>
-</div>
 
 
 

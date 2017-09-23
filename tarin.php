@@ -8,7 +8,7 @@
       </ul>
     </nav>
 
-<section id="tarin" style="display: none;">
+<section id="tarin">
 
   <h1 class="dear-joe">Tarin Rickett</h1>
 

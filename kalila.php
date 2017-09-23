@@ -9,7 +9,7 @@
     </nav>
 
 
-<section id="kalila" style="display: none;">
+<section id="kalila">
 	<h1 class="dear-joe">About Kalila</h1>
 					
 	<h1 class="gov"> Resume </h1>

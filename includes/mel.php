@@ -44,53 +44,21 @@
 			<li>Activities: X</li>
 			<li>Scholarships / Awards: x</li>
 		</ul>
-
-		<!-- <h3>University of Rochester</h3>
-		<h4>B.A. Computer Science (Human Computer Interaction Track), Minor in Business '19</h4>
-		<ul>
-			<li>Deans List 3/4 Semesters</li>
-			<li>Dean's Scholarship</li>
-			<li>Women's River Campus and Eastman Choir</li>
-			<li>Alpha Kappa Psi Proessional Business Fraternity</li>
-		</ul> -->
 		
 		<h2 class="gov">Experience</h2>
-		<h3>CSC 161 Workshop Leader | January 2017 - Present</h3>
-		<h4>University of Rochester Computer Science Department</h4>
-		<ul>
-			<li>Leads a 12 person workshop on Python concepts learned in class through problems sets and active discussions</li>
-			<li>Grades quizzes and attends a weekly course to effictively teach</li>
-		</ul>
+	    <h3>CSC 161 Workshop Leader &nbsp; | &nbsp; Rochester, NY &nbsp; | &nbsp; January 2017 - Present</h3>
+		<p>Leads a 12 person workshop on Python concepts learned in class through problems sets and active discussions. Grades quizzes and attends a weekly course to effictively teach</p>
 		
-		<h3>Webmaster, Social Chair | January 2016 - Present</h3>
-		<h4>Alpha Kappa Psi, Psi Mu Chapter | University of Rochester</h4>
-		<ul>
-			<li>Resdesigned entire website to improve the UX, making the navigation more efficient and informative for potential members</li>
-			<li>Changed web hosting to allow for easier updating when future webmasters transition to the role</li>
-			<li>Collaborated with VP Alumni Relations to create and updated Alumni Database to improve internal relations with members</li>
-		</ul>
+	    <h3>Alpha Kappa Psi - Psi Mu Chapter Webmaster, Social Chair &nbsp; | &nbsp; Rochester, NY &nbsp; | &nbsp; January 2016 - Present</h3>
+		<p>Resdesigned entire website to improve the UX, making the navigation more efficient and informative for potential members. Changed web hosting to allow for easier updating when future webmasters transition to the role. Collaborated with VP Alumni Relations to create and updated Alumni Database to improve internal relations with members.
+		</p>
 		
-		<h3>UX/UI Design Summer Intern | June 2017 - August 2017 | New York City, NY</h3>
-		<h4>Edu.chat, Inc.</h4>
-		<ul>
-			<li>Developed wireframes and high fidelity prototypes for iOs, Android, and Web platforms</li>
-			<li>Worked closely with developers to ensure prototypes were practical and screens were developed to standards</li>
-			<li>Closely followed Material Guidelines throughout Android and Web platforms</li>
-		</ul>
+	    <h3>Edu.chat, Inc. UX/UI Design Summer Intern &nbsp; | &nbsp; New York City, NY &nbsp; | &nbsp; June 2017 - August 2017 </h3>
+		<p> Developed wireframes and high fidelity prototypes for iOs, Android, and Web platforms. Worked closely with developers to ensure prototypes were practical and screens were developed to standards. Closely followed Material Guidelines throughout Android and Web platforms.
+		</p>
 		
-		<h3>Women in Technology Consulting Conference | July 2017</h3>
-		<h4>EY (Formerly Ernest & Young)</h4>
-		<ul>
-			<li>Chosen as one of 60 women to attend a conference in Chicago, Illinois focused on the diversity and opportunities available at EY.</li>
-		</ul>
-
-		<h1 class="gov">Skills</h1>
-	    <h2>Proficient in:</h2>
-	    <ul>
-	      <li>CSS</li>
-	      <li>HTML</li>
-	      <li>Whatever</li>
-	    </ul>
+	    <h3>EY (Formerly Ernest & Young) Women in Technology Consulting Conference &nbsp; | &nbsp; Chicago, IL &nbsp; | &nbsp; July 2017</h3>
+		<p>Chosen as one of 60 women to attend a conference in Chicago, Illinois focused on the diversity and opportunities available at EY.</p>
 
 	</section>
 </body>

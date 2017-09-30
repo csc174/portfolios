@@ -51,19 +51,10 @@
     </ul>
 
     <h1 class="gov">Experience</h1>
-    <h2>UI Engineer Intern</h2>
-    <h3>LinkedIn</h3>
-    <h4>Sunnyvale, CA &nbsp; | &nbsp; June 2017 - Sept 2017</h4><a href="https://studentcareers.linkedin.com/internships" role="button">Learn more »</a> <a href="http://www.linkedin.com/" role="button">View site »</a>
+    <h3>LinkedIn UI Engineer Intern &nbsp; | &nbsp; Sunnyvale, CA &nbsp; | &nbsp; June 2017 - Sept 2017</h3>
+    <p>Insert what you did here :D</p>
+
     
-    <h1 class="gov">Skills</h1>
-    <h2>Proficient in:</h2>
-    <ul>
-      <li>CSS</li>
-      <li>HTML</li>
-      <li>Java</li>
-      <li>Javascript</li>
-      <li>Wordpress</li>
-    </ul>
   </section>
 
 </body>

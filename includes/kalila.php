@@ -29,7 +29,7 @@
 	<section class="profile">
 		<h1 class="dear-joe">About Kalila</h1>
 		<div class="buttons">
-			<a href="https://kalilashapiroroc.wordpress.com">* Portfolio *</a>
+			<a href="https://kalilashapiroroc.wordpress.com" class="btn btn-primary" role="button">Portfolio</a>
 		</div>
 
 		<h1 class="gov">Education</h1>

@@ -32,7 +32,8 @@
 		<br>
 		In my free time, I enjoy trying new restaurants, photgraphy, drawing, and singing. In middle school, up until high school, I was focused on theater, with my first career choice being an actress. Once I got to high school, I started to do news broadcasting, genomic research, advertising, and was involved in sports. While I wanted to be a doctor my whole life, college made me realize how I had interests in other fields, like design and business. As my eventual goal was to be an entrepreneur, I didn't hesitate to drop science courses for a different major. In the future I hope to get either an MBA or a Master's in Design -- maybe both!</p> -->
 		<div class="buttons">
-			<a href="http://www.melanie-dookharan.com" role="button">* Portfolio *</a> <a href="https://www.linkedin.com/in/melaniedookharan/" role="button">*LinkedIn*</a>
+			<a href="http://www.melanie-dookharan.com" class="btn btn-primary" role="button">Portfolio</a>
+			<a href="https://www.linkedin.com/in/melaniedookharan/" class="btn btn-primary" role="button">LinkedIn</a>
 		</div>
 
 		<h1 class="gov">Education</h1>

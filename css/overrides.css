@@ -2,58 +2,13 @@
 /* Home Page */
 /************/
 
-.home{
-  background-color: #7D1128;
-}
-
-
-.img-circle {
-  margin-top: 15px;
-}
-
-.col-md-4 {
-  max-width: 400px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-top: 1px;
-  border: black solid 1px;
-}
-
-.welcome h1{
-  font-size: 60pt;
-  text-align: center;
-  margin-top: 90px;
-  color: #FFC07F;
-}
-
-.welcome h2{
-  font-size: 20pt;
-  text-align: center;
-  color: #FFCF99;
-}
-
-.welcome{
-  margin-bottom: 50px;
-}
-
 
 
 /**********/
 /* Profiles */
 /**********/
 
-.gov{
-  text-align: center;
-}
- 
- .profile{
-  margin-top: 30px;
- }
 
-.profile .buttons{
-  text-align: center;
-
-}
 
 /************/
 /* BASICS */
@@ -125,6 +80,3 @@ section {
 footer p {
   color: #ACC9A7;
 }
-
-
-

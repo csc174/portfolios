@@ -2,39 +2,6 @@
 /* Home Page */
 /************/
 
-.home{
-  background-color: #7D1128;
-}
-
-
-.img-circle {
-  margin-top: 15px;
-}
-
-.col-md-4 {
-  max-width: 400px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-top: 1px;
-  border: black solid 1px;
-}
-
-.welcome h1{
-  font-size: 60pt;
-  text-align: center;
-  margin-top: 90px;
-  color: #FFC07F;
-}
-
-.welcome h2{
-  font-size: 20pt;
-  text-align: center;
-  color: #FFCF99;
-}
-
-.welcome{
-  margin-bottom: 50px;
-}
 
 
 
@@ -42,79 +9,16 @@
 /* Profiles */
 /**********/
 
-.gov{
-  text-align: center;
-}
- 
- .profile{
-  margin-top: 30px;
- }
-
-.profile .buttons{
-  text-align: center;
-
-}
 
 /************/
 /* BASICS */
 /************/
 
-h1 {
-  color: #7D1128;
-}
-
-@font-face {
-  font-family: "dear-joe";
-  src: url(../fonts/dear-joe.otf) format("opentype");
-}
-
-.dear-joe {
-  font-family: 'dear-joe';
-}
-
-@font-face {
-  font-family: "gov";
-  src: url(../fonts/governor.ttf) format("opentype");
-}
-
-.gov {
-  font-family: 'gov';
-}
-
-section {
-  padding-top: 1em;
-}
 
 /************/
 /* NAV BAR */
 /************/
 
-.navbar-inverse {
-  background-color: #fff;
-  border-color: #721121;
-}
-
-.navbar-inverse .navbar-nav>li>a {
-    color: #333;
-}
-
-.navbar-inverse .navbar-brand {
-    color: #721121;
-}
-
-
-.navbar-inverse .navbar-nav>li>a:focus {
-  color: #721121;
-}
-
-.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
-    color: #721121;
-}
-
-.navbar-inverse .navbar-nav>li>a:hover {
-  background-color: #DB7067;
-  color: #fff;
-}
 
 
 
@@ -125,6 +29,3 @@ section {
 footer p {
   color: #ACC9A7;
 }
-
-
-

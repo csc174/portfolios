@@ -4,10 +4,12 @@
   <meta charset="utf-8">
   <meta content="CSC174" name="description">
   <meta content="CJ, Mel, Kalila, Tarin" name="author">
-  <title>CSC174 Assignment 4</title><!-- Bootstrap core CSS -->
+  <title>CSC174 Assignment 4</title>
+  <!-- Bootstrap core CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/overrides.css" rel="stylesheet">
 </head>
+
 <body class="home">
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <ul class="nav navbar-nav">
@@ -24,14 +26,13 @@
         <a class="gov" href="includes/tarin.php" id="tarin-tab">Tarin</a>
       </li>
     </ul>
-  </nav><!--     <div class="jumbotron text-center">
-      <h1>Welcome to Queens, NY</h1>  
-    </div>
- -->
+  </nav>
+
   <div class="welcome">
     <h1>Welcome to Queens, NY</h1>
     <h2>Click on a person to learn more about them!</h2>
   </div>
+
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-4 media well" id="mel">
@@ -63,15 +64,11 @@
       </div>
     </div>
   </div>
+
   <footer>
     <p>Copyright © 2017</p>
   </footer>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
-  </script> 
-  <script>
-  window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')
-  </script> 
-  <script src="js/tabs.js">
-  </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+ 
 </body>
 </html>

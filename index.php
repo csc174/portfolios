@@ -27,6 +27,57 @@
     </div>
   </nav>
 
+  <div class="container">
+    <div class="row">
+      <div id="mel-home" class="col s12 m4">
+        <div class="card">
+            <div class="card-image">
+              <img src="images/mel-headshot.jpg">
+              <span class="card-title"> Melanie Dookharan </span>
+            </div>
+            <div class="card-content">
+              <p> Short About Me</p>
+            </div>
+            <div class="card-action">
+              <a href="includes/mel.php">Learn More</a>
+            </div>
+          </div>
+      </div>
+      <div id ="tarin-home" class="col s12 m4"></div>
+        <div class="card">
+          <div class="card-image">
+            <img src="images/tarin-headshot.jpg">
+            <span class="card-title"> Tarin Rickett </span>
+          </div>
+          <div class="card-content">
+            <p> Short About Me</p>
+          </div>
+          <div class="card-action">
+            <a href="includes/mel.php">Learn More</a>
+          </div>
+        </div>
+      <div id= "kalila-home" class="col s12 m4 ">
+        <div class="card">
+            <div class="card-image">
+              <img src="images/kalila-headshot.jpg">
+              <span class="card-title">Kalila Shapiro</span>
+            </div>
+            <div class="card-content">
+              <p>Short About Me</p>
+            </div>
+            <div class="card-action">
+              <a href="includes/kalila.php">Learn More</a>
+            </div>
+          </div>
+      </div>
+    </div>
+
+
+
+
+
+  </div>
+
   <footer>
     <p>Copyright © 2017</p>
     <!--Import jQuery before materialize.js-->

@@ -14,22 +14,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
-	<nav class="navbar navbar-inverse navbar-fixed-top">
-		<ul class="nav navbar-nav">
-			<li>
-				<a class="gov" href="../index.php">Home</a>
-			</li>
-			<li>
-				<a class="gov" href="mel.php" id="mel-tab">Mel</a>
-			</li>
-			<li>
-				<a class="gov" href="kalila.php" id="kalila-tab">Kalila</a>
-			</li>
-			<li>
-				<a class="gov" href="tarin.php" id="tarin-tab">Tarin</a>
-			</li>
-		</ul>
-	</nav>
+	
+	<nav>
+    <div class="nav-wrapper">
+      <a href="index.php" class="brand-logo">Home</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="tarin.php">Tarin</a></li>
+        <li><a href="kalila.php">Kalila</a></li>
+        <li><a href="mel.php">Mel</a></li>
+      </ul>
+    </div>
+  </nav>
+
 	<section class="profile">
 		<h1 class="dear-joe">About Kalila</h1>
 		<div class="buttons">

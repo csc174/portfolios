@@ -4,10 +4,12 @@
   <meta charset="utf-8">
   <meta content="CSC174" name="description">
   <meta content="CJ, Mel, Kalila, Tarin" name="author">
-  <title>CSC174 Assignment 4</title><!-- Bootstrap core CSS -->
+  <title>CSC174 Assignment 4</title>
+  <!-- Bootstrap core CSS -->
   <link href="../css/bootstrap.min.css" rel="stylesheet">
   <link href="../css/overrides.css" rel="stylesheet">
 </head>
+
 <body>
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <ul class="nav navbar-nav">
@@ -25,11 +27,13 @@
       </li>
     </ul>
   </nav>
+
   <section class=" profile">
     <h1 class="dear-joe">About Tarin</h1>
     <div class="buttons">
       <a href="http://www.tarinrickett.com" role="button">* Portfolio *</a> <a href="https://www.linkedin.com/in/tarinrickett/" role="button">* LinkedIn *</a>
     </div>
+
     <h1 class="gov">Education</h1>
     <h2>University of Rochester</h2>
     <h3>Rochester, NY &nbsp; | &nbsp; Graduate May 2018</h3>
@@ -45,10 +49,12 @@
       <li>Immersive study abroad for the 2017 spring semester</li>
       <li>Took university courses while immersing myself in the culture and language of western France</li>
     </ul>
+
     <h1 class="gov">Experience</h1>
     <h2>UI Engineer Intern</h2>
     <h3>LinkedIn</h3>
     <h4>Sunnyvale, CA &nbsp; | &nbsp; June 2017 - Sept 2017</h4><a href="https://studentcareers.linkedin.com/internships" role="button">Learn more »</a> <a href="http://www.linkedin.com/" role="button">View site »</a>
+    
     <h1 class="gov">Skills</h1>
     <h2>Proficient in:</h2>
     <ul>
@@ -59,5 +65,6 @@
       <li>Wordpress</li>
     </ul>
   </section>
+
 </body>
 </html>

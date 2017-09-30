@@ -31,7 +31,8 @@
   <section class=" profile">
     <h1 class="dear-joe">About Tarin</h1>
     <div class="buttons">
-      <a href="http://www.tarinrickett.com" role="button">* Portfolio *</a> <a href="https://www.linkedin.com/in/tarinrickett/" role="button">* LinkedIn *</a>
+      <a href="http://www.tarinrickett.com" class="btn btn-primary" role="button">Portfolio</a> 
+      <a href="https://www.linkedin.com/in/tarinrickett/" class="btn btn-primary" role="button">LinkedIn</a>
     </div>
 
     <h1 class="gov">Education</h1>

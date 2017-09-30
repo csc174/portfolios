@@ -31,7 +31,7 @@
   <section class=" profile">
     <h1 class="dear-joe">About Tarin</h1>
     <div class="buttons">
-      <a href="http://www.tarinrickett.com" class="btn btn-primary" role="button">Portfolio</a> 
+      <a href="http://www.tarinrickett.com" class="btn btn-primary" role="button">Portfolio</a>
       <a href="https://www.linkedin.com/in/tarinrickett/" class="btn btn-primary" role="button">LinkedIn</a>
     </div>
 
@@ -52,10 +52,10 @@
     </ul>
 
     <h1 class="gov">Experience</h1>
-    <h3>LinkedIn UI Engineer Intern &nbsp; | &nbsp; Sunnyvale, CA &nbsp; | &nbsp; June 2017 - Sept 2017</h3>
+    <h2>LinkedIn UI Engineer Intern</h2>
+    <h3>Sunnyvale, CA &nbsp; | &nbsp; June 2017 - Sept 2017</h3>
     <p>Insert what you did here :D</p>
 
-    
   </section>
 
 </body>

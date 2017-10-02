@@ -2,6 +2,9 @@
 /* Home Page */
 /************/
 
+#welcome{
+  background-image: url("queens.jpg");
+}
 
 /**********/
 /* Profiles */

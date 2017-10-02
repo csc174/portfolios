@@ -20,7 +20,7 @@
 <div class="navbar-fixed">
   <nav class = "blue-grey darken-2">
     <div class="nav-wrapper container">
-      <a href="index.php" class="brand-logo">Home</a>
+      <a href="../index.php" class="brand-logo">Home</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li class="active"><a href="tarin.php">Tarin</a></li>
         <li><a href="kalila.php">Kalila</a></li>

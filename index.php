@@ -20,11 +20,11 @@
 <div class="navbar-fixed">
   <nav class = "blue-grey darken-2">
     <div class="nav-wrapper container">
-      <a href="index.php" class="brand-logo">Home</a>
+      <a href="#" class="brand-logo">Home</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="tarin.php">Tarin</a></li>
-        <li><a href="kalila.php">Kalila</a></li>
-        <li><a href="mel.php">Mel</a></li>
+        <li><a href="includes/tarin.php">Tarin</a></li>
+        <li><a href="includes/kalila.php">Kalila</a></li>
+        <li><a href="includes/mel.php">Mel</a></li>
       </ul>
     </div>
   </nav>

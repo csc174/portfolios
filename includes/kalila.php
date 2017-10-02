@@ -9,30 +9,33 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <!--Import materialize.css-->
   <link type="text/css" rel="stylesheet" href="../css/materialize.min.css"  media="screen,projection"/>
-
+  <link type="text/css" rel="stylesheet" href="css/overrides.css">
   <!--Let browser know website is optimized for mobile-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
+
 <body>
-	
+
+<div class="navbar-fixed">
 	<nav>
     <div class="nav-wrapper">
       <a href="index.php" class="brand-logo">Home</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="tarin.php">Tarin</a></li>
-        <li><a href="kalila.php">Kalila</a></li>
+        <li class="active"><a href="kalila.php">Kalila</a></li>
         <li><a href="mel.php">Mel</a></li>
       </ul>
     </div>
   </nav>
+</div>
 
-	<section class="profile">
-		<h1 class="dear-joe">About Kalila</h1>
-		<div class="buttons">
-			<a href="https://kalilashapiroroc.wordpress.com" class="btn btn-primary" role="button">Portfolio</a>
-		</div>
 
-		<h1 class="gov">Education</h1>
+	<div class="section amber accent-3">
+		<h1> Kalila Shapiro </h1>
+	</div>
+
+	<div class="section">
+		<h1>Education</h1>
 		<h2>University of Rochester</h2>
 		<h3>Rochester, NY &nbsp; | &nbsp; Graduate May 2018</h3>
 		<h4>Major: Computer Science; Digital Media Studies</h4>
@@ -41,8 +44,10 @@
 			<li>Activities: Quidditch, No Jackets Required, Kappa Alpha Theta, UR Club Squash</li>
 			<li>Scholarships/Awards: Wilder Trustee Scholarship, Research and Innovation Grant, Computing Research Association (CRA-W) GHC Research Scholar</li>
 		</ul>
+	</div>
 
-		<h1 class="gov">Experience</h1>
+	<div class="section">
+		<h1>Experience</h1>
 	  <h2>Web Programming TA</h2>
 		<h3>Rochester, NY &nbsp; | &nbsp; August 2017 - December 2017</h3>
 		<p>Working as a TA to grade exams and guide students through their semester long project of building a fully functional website.</p>
@@ -63,7 +68,7 @@
 		<h3>Rochester, NY &nbsp; | &nbsp; January 2017 - May 2017</h3>
 		<p>Served as the Social Media Chair for the Theta Lambda chapter of Kappa Alpha Theta. Ran all social media pages for the chapter and created promotional photo campaigns to improve the chapter's image.</p>
 
-	</section>
+	</div>
 
 	<footer>
     <p>Copyright © 2017</p>

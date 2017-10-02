@@ -9,37 +9,34 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <!--Import materialize.css-->
   <link type="text/css" rel="stylesheet" href="../css/materialize.min.css"  media="screen,projection"/>
+  <link type="text/css" rel="stylesheet" href="../css/overrides.css" >
 
   <!--Let browser know website is optimized for mobile-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 
 <body>
-  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <ul class="nav navbar-nav">
-      <li>
-        <a class="gov" href="../index.php">Home</a>
-      </li>
-      <li>
-        <a class="gov" href="mel.php" id="mel-tab">Mel</a>
-      </li>
-      <li>
-        <a class="gov" href="kalila.php" id="kalila-tab">Kalila</a>
-      </li>
-      <li>
-        <a class="gov" href="tarin.php" id="tarin-tab">Tarin</a>
-      </li>
-    </ul>
-  </nav>
 
-  <section class=" profile">
-    <h1 class="dear-joe">About Tarin</h1>
-    <div class="buttons">
-      <a href="http://www.tarinrickett.com" class="btn btn-primary" role="button">Portfolio</a>
-      <a href="https://www.linkedin.com/in/tarinrickett/" class="btn btn-primary" role="button">LinkedIn</a>
+<div class="navbar-fixed">
+  <nav>
+    <div class="nav-wrapper">
+      <a href="index.php" class="brand-logo">Home</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li class="active"><a href="tarin.php">Tarin</a></li>
+        <li><a href="kalila.php">Kalila</a></li>
+        <li><a href="mel.php">Mel</a></li>
+      </ul>
     </div>
+  </nav>
+</div>
 
-    <h1 class="gov">Education</h1>
+  <div class="section red accent-2">
+    <h1>Tarin Rickett</h1>
+  </div>
+
+
+  <div class="section">
+    <h1 >Education</h1>
     <h2>University of Rochester</h2>
     <h3>Rochester, NY &nbsp; | &nbsp; Graduate May 2018</h3>
     <h4>Majors: Computer Science, Brain and Cognitive Sciences</h4>
@@ -54,13 +51,15 @@
       <li>Immersive study abroad for the 2017 spring semester</li>
       <li>Took university courses while immersing myself in the culture and language of western France</li>
     </ul>
+  </div>
+</div>
 
-    <h1 class="gov">Experience</h1>
+  <div class = "section">
+    <h1>Experience</h1>
     <h2>LinkedIn UI Engineer Intern</h2>
     <h3>Sunnyvale, CA &nbsp; | &nbsp; June 2017 - Sept 2017</h3>
     <p>Insert what you did here :D</p>
-
-  </section>
+  </div>
 
   <footer>
     <p>Copyright © 2017</p>

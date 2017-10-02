@@ -37,7 +37,7 @@
 
   <div class = "section red lighten-1">
     <div class = "container">
-    <h1>Education</h1>
+    <h1 class = "title">Education</h1>
   </div>
 </div>
 
@@ -67,7 +67,7 @@
 
 <div class = "section red lighten-1">
   <div class = "container">
-    <h1 class="">Experience</h1>
+    <h1 class="title">Experience</h1>
 </div>
 </div>
 

@@ -34,7 +34,7 @@
 		</div>
 
 			<div class="section teal darken-2">
-				<h1 class="white-text container">Education</h1>
+				<h1 class="white-text container title">Education</h1>
 			</div>
 
 			<div class ="section teal lighten-1">
@@ -51,7 +51,7 @@
 		</div>
 
 				<div class="section teal darken-2">
-					<h1 class="white-text container">Experience</h1>
+					<h1 class="white-text container title">Experience</h1>
 				</div>
 
 				<div class = "section teal lighten-1">

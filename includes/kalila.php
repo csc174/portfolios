@@ -10,6 +10,7 @@
   <!--Import materialize.css-->
   <link type="text/css" rel="stylesheet" href="../css/materialize.min.css"  media="screen,projection"/>
   <link type="text/css" rel="stylesheet" href="../css/overrides.css">
+
   <!--Let browser know website is optimized for mobile-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
@@ -36,7 +37,7 @@
 
 	<div class = "section amber darken-2">
 		<div class = "container">
-			<h1 class="">Education</h1>
+			 <h1 class = "title">Education</h1>
 		</div>
 	</div>
 
@@ -55,7 +56,7 @@
 
 	<div class = "section amber darken-2">
 		<div class = "container">
-		<h1 class="">Experience</h1>
+		<h1 class="title">Experience</h1>
 </div>
 </div>
 

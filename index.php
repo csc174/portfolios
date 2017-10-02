@@ -45,11 +45,9 @@
         <h3 class="teal-text text-accent-4"> Melanie Dookharan </h3>
         <h4> <strong>Postion:</strong> Design Artist </h4>
         <h4> <strong> Email: </strong> mdookhar@u.rochester.edu </h4>
-        <span style="display: inline">
           <a class="btn" href="includes/mel.php"> Resume</a>
           <a class="btn" href="https://www.linkedin.com/in/melaniedookharan/" > LinkedIn</a>
           <a class="btn" href="http://www.melanie-dookharan.com"> Portfolio</a>
-        </span>
       </div>
     </div>
   </div>

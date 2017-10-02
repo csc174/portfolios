@@ -18,8 +18,8 @@
 <body>
 
 <div class="navbar-fixed">
-  <nav>
-    <div class="nav-wrapper">
+  <nav class = "blue-grey darken-2">
+    <div class="nav-wrapper container">
       <a href="index.php" class="brand-logo">Home</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li class="active"><a href="tarin.php">Tarin</a></li>
@@ -30,13 +30,19 @@
   </nav>
 </div>
 
-  <div class="section red accent-2">
-    <h1>Tarin Rickett</h1>
+  <div class="section red accent-1 name-header">
+    <h1 class="container name spacing"> Tarin Rickett</h1>
   </div>
 
 
-  <div class="section">
-    <h1 >Education</h1>
+  <div class = "section red lighten-1">
+    <div class = "container">
+    <h1>Education</h1>
+  </div>
+</div>
+
+<div class = "section red lighten-2">
+  <div class = "container">
     <h2>University of Rochester</h2>
     <h3>Rochester, NY &nbsp; | &nbsp; Graduate May 2018</h3>
     <h4>Majors: Computer Science, Brain and Cognitive Sciences</h4>
@@ -44,6 +50,11 @@
       <li>Minors: Psychology, French</li>
       <li>Activities: Freshman Orientation Outing Treks (president ’15-16; head of website committee ’14-15), Women in Computing (web manager '16-17), Pep & Pit Bands</li>
     </ul>
+</div>
+</div>
+
+<div class = "section red lighten-3">
+  <div class = "container">
     <h2>Université de Nantes</h2>
     <h3>Nantes, France &nbsp; | &nbsp; Jan 2017 - May 2017</h3>
     <h4>IES French Language Immersion & Area Studies Program</h4>
@@ -54,12 +65,19 @@
   </div>
 </div>
 
-  <div class = "section">
-    <h1>Experience</h1>
+<div class = "section red lighten-1">
+  <div class = "container">
+    <h1 class="">Experience</h1>
+</div>
+</div>
+
+<div class = "section red lighten-2">
+  <div class = "container">
     <h2>LinkedIn UI Engineer Intern</h2>
     <h3>Sunnyvale, CA &nbsp; | &nbsp; June 2017 - Sept 2017</h3>
     <p>Insert what you did here :D</p>
   </div>
+</div>
 
   <footer>
     <p>Copyright © 2017</p>

@@ -18,8 +18,8 @@
 <body>
 
 <div class="navbar-fixed">
-  <nav>
-    <div class="nav-wrapper">
+  <nav class = "blue-grey darken-2">
+    <div class="nav-wrapper container">
       <a href="index.php" class="brand-logo">Home</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="tarin.php">Tarin</a></li>
@@ -31,8 +31,8 @@
 </div>
 
 
-<div id="welcome" class="section blue-grey lighten-4">
-  <h1>Welcome to Queens, NY</h1>
+<div id="welcome" class="section blue-grey lighten-4 name-header">
+  <h1 class="container name">Welcome to Queens, NY</h1>
 </div>
 
 <div id="mel-preview" class="section">

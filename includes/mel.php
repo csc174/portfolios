@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta content="CSC174" name="description">
-	<meta content="CJ, Mel, Kalila, Tarin" name="author">
+	<meta content="Mel, Kalila, Tarin" name="author">
 
 	<title>CSC174 Assignment 4</title><!--Import Google Icon Font-->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><!--Import materialize.css-->
@@ -55,7 +55,7 @@
 
 
 	<div class="section teal accent-4 name-header">
-		<h1 class="container name spacing">Melanie Dookharan</h1>
+		<h1 class="name spacing">Melanie Dookharan</h1>
 	</div>
 
 

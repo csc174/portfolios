@@ -4,7 +4,10 @@
 
 #welcome{
   background-image: url("images/queens.jpg");
+}
 
+.responsive-btn{
+  margin-bottom: 1em;
 }
 
 /**********/
@@ -13,30 +16,23 @@
 
 .name{
   text-align: center;
-  position: absolute;
+  /*position: absolute;
   top: 38%;
-  left: 15%;
-
+  left: 15%;*/
 }
 
 .spacing{
-    letter-spacing: 0.5em;
+  letter-spacing: 0.5em;
 }
 
 .name-header{
-  height: 300px;
-  position: relative;
+  height: 10em;
+  /*position: relative;*/
 }
 
-
-
-
-
-/************/
-/* NAV BAR */
-/************/
-
-
 /**********/
-/* MISC */
+/* Misc */
 /**********/
+img {
+  width: 100%;
+}

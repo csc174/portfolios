@@ -4,13 +4,13 @@
 <head>
 	<meta charset="utf-8">
 	<meta content="CSC174" name="description">
-	<meta content="CJ, Mel, Kalila, Tarin" name="author">
+	<meta content="Mel, Kalila, Tarin" name="author">
 
 	<title>CSC174 Assignment 4</title>
   <!--Import Google Icon Font-->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <!--Import materialize.css-->
-	<link href="css/materialize.min.css" media="screen,projection" rel="stylesheet" type="text/css">
+	<link href="css/materialize.min.css" rel="stylesheet" type="text/css">
 	<link href="css/overrides.css" rel="stylesheet" type="text/css">
   <!--Let browser know website is optimized for mobile-->
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -62,7 +62,7 @@
 	<div class="section" id="mel-preview">
 		<div class="container">
 			<div class="row">
-				<div class="col m3 s12"><img class="materialboxed" src="images/mel-headshot.jpg">
+				<div class="col m3 s12"><img class="materialboxed" alt="Mel headshot" src="images/mel-headshot.jpg">
 				</div>
 
 				<div class="col m9 s12">
@@ -83,7 +83,7 @@
 	<div class="section" id="tarin-preview">
 		<div class="container">
 			<div class="row">
-				<div class="col m3 s12"><img class="materialboxed" src="images/tarin-headshot.jpg">
+				<div class="col m3 s12"><img class="materialboxed" alt="Tarin headshot" src="images/tarin-headshot.jpg">
 				</div>
 
 				<div class="col m9 s12">
@@ -104,7 +104,7 @@
 	<div class="section" id="kalila-preview">
 		<div class="container">
 			<div class="row">
-				<div class="col m3 s12"><img class="materialboxed" src="images/kalila-headshot.jpg">
+				<div class="col m3 s12"><img class="materialboxed" alt="Kalila headshot" src="images/kalila-headshot.jpg">
 				</div>
 
 				<div class="col m9 s12">

@@ -8,11 +8,11 @@
   background-repeat: no-repeat;
   background-position: center center;
   display: block;
+  height: 40vh;
 }
 
 .welcome-title{
   text-align: center;
-  color: #fff;
 }
 
 .responsive-btn{
@@ -39,9 +39,15 @@
   /*position: relative;*/
 }
 
-/**********/
-/* Misc */
-/**********/
-img {
+img{
   width: 100%;
+}
+
+/**********/
+/* Footer */
+/**********/
+
+footer{
+  text-align: center;
+  opacity: 0.5;
 }

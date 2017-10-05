@@ -3,7 +3,16 @@
 /************/
 
 #welcome{
-  background-image: url("images/queens.jpg");
+  background-image: url("../images/queens.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: block;
+}
+
+.welcome-title{
+  text-align: center;
+  color: #fff;
 }
 
 .responsive-btn{

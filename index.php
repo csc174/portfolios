@@ -55,7 +55,7 @@
 
 
 	<div class="section blue-grey lighten-4 name-header" id="welcome">
-		<h1 class="name">Welcome to Queens, NY</h1>
+		<h1 class="welcome-title">Welcome to Queens, NY</h1>
 	</div>
 
 

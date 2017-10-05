@@ -51,7 +51,7 @@
 	</nav>
 
 
-	<div class="section red accent-1 name-header">
+	<div class="section red accent-1">
 		<h1 class="name spacing">Tarin Rickett</h1>
 	</div>
 

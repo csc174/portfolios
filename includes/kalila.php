@@ -51,7 +51,7 @@
 	</nav>
 
 
-	<div class="section yellow name-header">
+	<div class="section yellow">
 		<h1 class="name spacing">Kalila Shapiro</h1>
 	</div>
 

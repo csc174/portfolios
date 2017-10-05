@@ -51,7 +51,7 @@
 	</nav>
 
 
-	<div class="section teal accent-4 name-header">
+	<div class="section teal accent-4">
 		<h1 class="name spacing">Melanie Dookharan</h1>
 	</div>
 

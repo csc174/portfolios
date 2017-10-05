@@ -17,19 +17,22 @@
 
 <body>
 
-<div class="navbar-fixed">
-  <nav class = "blue-grey darken-2">
-    <div class="nav-wrapper container">
-      <a href="#" class="brand-logo">Home</a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="includes/tarin.php">Tarin</a></li>
-        <li><a href="includes/kalila.php">Kalila</a></li>
-        <li><a href="includes/mel.php">Mel</a></li>
-      </ul>
-    </div>
-  </nav>
-</div>
-
+<nav class="blue-grey darken-2">
+  <div class="nav-wrapper container">
+   <a href="#!" class="brand-logo">Home</a>
+   <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+   <ul class="right hide-on-med-and-down">
+     <li><a href="includes/tarin.php">Tarin</a></li>
+     <li><a href="includes/kalila.php">Kalila</a></li>
+     <li><a href="includes/mel.php">Mel</a></li>
+   </ul>
+   <ul class="side-nav" id="mobile-demo">
+     <li><a href="includes/tarin.php">Tarin</a></li>
+     <li><a href="includes/kalila.php">Kalila</a></li>
+     <li><a href="includes/mel.php">Mel</a></li>
+   </ul>
+  </div>
+</nav>
 
 <div id="welcome" class="section blue-grey lighten-4 name-header">
   <h1 class="container name">Welcome to Queens, NY</h1>
@@ -93,13 +96,12 @@
   </div>
 </div>
 
-
-
   <footer>
     <p>Copyright © 2017</p>
     <!--Import jQuery before materialize.js-->
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="js/mobile-nav.js"></script>
   </footer>
 
 </body>

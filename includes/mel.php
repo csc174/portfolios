@@ -20,35 +20,32 @@
 
 			<ul class="right hide-on-med-and-down">
 				<li>
-					<a href="tarin.php">Tarin</a>
+					<a href="mel.php">Mel</a>
 				</li>
 
-
-				<li>
+        <li>
 					<a href="kalila.php">Kalila</a>
 				</li>
 
+        <li>
+          <a href="tarin.php">Tarin</a>
+        </li>
 
-				<li>
-					<a href="mel.php">Mel</a>
-				</li>
 			</ul>
-
 
 			<ul class="side-nav" id="mobile-demo">
 				<li>
-					<a href="tarin.php">Tarin</a>
+					<a href="mel.php">Mel</a>
 				</li>
 
-
-				<li>
+        <li>
 					<a href="kalila.php">Kalila</a>
 				</li>
 
-
-				<li>
-					<a href="mel.php">Mel</a>
+        <li>
+					<a href="tarin.php">Tarin</a>
 				</li>
+
 			</ul>
 		</div>
 	</nav>

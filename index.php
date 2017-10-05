@@ -23,30 +23,32 @@
 
 			<ul class="right hide-on-med-and-down">
 				<li>
-					<a href="includes/tarin.php">Tarin</a>
+					<a href="includes/mel.php">Mel</a>
 				</li>
 
-				<li>
+        <li>
 					<a href="includes/kalila.php">Kalila</a>
 				</li>
 
-				<li>
-					<a href="includes/mel.php">Mel</a>
-				</li>
+        <li>
+          <a href="includes/tarin.php">Tarin</a>
+        </li>
+
 			</ul>
 
 			<ul class="side-nav" id="mobile-demo">
 				<li>
-					<a href="includes/tarin.php">Tarin</a>
+					<a href="includes/mel.php">Mel</a>
 				</li>
 
-				<li>
+        <li>
 					<a href="includes/kalila.php">Kalila</a>
 				</li>
 
-				<li>
-					<a href="includes/mel.php">Mel</a>
+        <li>
+					<a href="includes/tarin.php">Tarin</a>
 				</li>
+
 			</ul>
 		</div>
 	</nav>

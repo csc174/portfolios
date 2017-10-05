@@ -79,7 +79,7 @@
   <div class = "container">
     <h2>LinkedIn UI Engineer Intern</h2>
     <h3>Sunnyvale, CA &nbsp; | &nbsp; June 2017 - Sept 2017</h3>
-    <p>Insert what you did here :D</p>
+    <p>Developed for the onboarding re-design project alongside Goals & Onboarding team. The fully implemented widget is now live and impacting tens of thousands of new users daily. Returning to full-time role in Nov 2018.</p>
   </div>
 </div>
 
